@@ -166,8 +166,8 @@ def upload_annotation(files, user, osf_token=None, nmweb_token=None):
         # fill additional information on file
         bytestream = img.to_bytes()
         package_hash.update(bytestream)
-        info = _osf.complete_json([info])[0]
-        info = _osf.clean_minimal_keys(_osf.generate_auto_keys(info))
+        info = _osf.generate_auto_keys(info)
+        info = _osf.clean_minimal_keys(_osf.complete_json([info])[0])
         info['checksum'] = hashlib.md5(bytestream).hexdigest()
         info['tags'] = tags
         info['data'] = b64encode(nib.load(fname).to_bytes()).decode()
@@ -185,4 +185,4 @@ def upload_annotation(files, user, osf_token=None, nmweb_token=None):
         resp.raise_for_status()
         raise requests.HTTPError(f'{resp.status_code}: {resp.text}')
 
-    return resp
+    return None
