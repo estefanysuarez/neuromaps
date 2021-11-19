@@ -162,8 +162,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b92446cb2a5e032668d1c3"
+                "4mw3a",
+                "6196ca94bbe37803aa59fd16"
             ]
         },
         {
@@ -182,8 +182,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922019096b7035063f1be"
+                "4mw3a",
+                "6196cafa0b0c1e03c67fccad"
             ]
         },
         {
@@ -202,8 +202,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9225f9096b7034f63e132"
+                "4mw3a",
+                "6196caa3bbe37803c059ebb3"
             ]
         },
         {
@@ -222,8 +222,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922543a6df1034ed4fee3"
+                "4mw3a",
+                "6196cb28bbe37803c059ee6d"
             ]
         },
         {
@@ -242,8 +242,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9224b3a6df10348d51335"
+                "4mw3a",
+                "6196cb34bbe37803bd59f194"
             ]
         },
         {
@@ -262,8 +262,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922413a6df10349d4f5dc"
+                "4mw3a",
+                "6196cb3f0b0c1e03d87fbf65"
             ]
         },
         {
@@ -282,8 +282,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922373a6df1034ed4fe7b"
+                "4mw3a",
+                "6196cb1c0b0c1e03ca7fd263"
             ]
         },
         {
@@ -302,8 +302,28 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9222c9096b7034864552e"
+                "4mw3a",
+                "6196cb10bbe37803b559fe58"
+            ]
+        },
+        {
+            "source": "ding2010",
+            "desc": "mrb",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-ding2010_desc-mrb_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "ding2010/mrb/MNI152",
+            "checksum": "10333676136be9ebe19c299ec9cb1170",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619518c61088a70163bcdb78"
             ]
         },
         {
@@ -322,8 +342,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b920e73a6df1034ed4f8e9"
+                "4mw3a",
+                "6196cae31088a703dabcf13d"
             ]
         },
         {
@@ -342,8 +362,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924579096b7034f63e6a1"
+                "4mw3a",
+                "6196ca8c0b0c1e03c67fcc32"
             ]
         },
         {
@@ -362,8 +382,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9244d3a6df1034dd4f323"
+                "4mw3a",
+                "6196ca820b0c1e03d87fbb2e"
             ]
         },
         {
@@ -382,8 +402,48 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924329096b7034f63e621"
+                "4mw3a",
+                "6196ca650b0c1e03d87fbab8"
+            ]
+        },
+        {
+            "source": "gallezot2010",
+            "desc": "p943",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-gallezot2010_desc-p943_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "gallezot2010/p943/MNI152",
+            "checksum": "a653c53adb6ce070a22243f88c301a79",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619519001088a70173bce511"
+            ]
+        },
+        {
+            "source": "gallezot2017",
+            "desc": "gsk189254",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-gallezot2017_desc-gsk189254_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "gallezot2017/gsk189254/MNI152",
+            "checksum": "33ab8b4bf7023a51a011e6d7acbfd79b",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "61956b36bbe37801c559fd24"
             ]
         },
         {
@@ -738,8 +798,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9245f9096b7034864586f"
+                "4mw3a",
+                "6196caa9bbe37803c059ebe0"
             ]
         },
         {
@@ -785,6 +845,26 @@
             ]
         },
         {
+            "source": "hillmer2016",
+            "desc": "flubatine",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-hillmer2016_desc-flubatine_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "hillmer2016/flubatine/MNI152",
+            "checksum": "4b88cbfb677ff5a3fe8ff7e7cfdf8874",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619518edbbe378017159e8d2"
+            ]
+        },
+        {
             "source": "jaworska2020",
             "desc": "fallypride",
             "space": "MNI152",
@@ -800,8 +880,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924cacb2a5e032c68c9dc"
+                "4mw3a",
+                "6196cb01bbe37803ba59f121"
             ]
         },
         {
@@ -820,8 +900,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924d2cb2a5e032d68dbf4"
+                "4mw3a",
+                "6196ca6c1088a703cdbcee58"
             ]
         },
         {
@@ -840,8 +920,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b9242b3a6df1034ed50753"
+                "4mw3a",
+                "6196ca9a1088a703e9bce6b5"
             ]
         },
         {
@@ -860,8 +940,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924673a6df1034ed50894"
+                "4mw3a",
+                "6196ca7a1088a703e8bcdfd8"
             ]
         },
         {
@@ -1349,6 +1429,26 @@
             ]
         },
         {
+            "source": "naganawa2020",
+            "desc": "lsn3172176",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-naganawa2020_desc-lsn3172176_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "naganawa2020/lsn3172176/MNI152",
+            "checksum": "4df88b8c43af410e4f6df5249d7aa2c6",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "61956b461088a701d5bce978"
+            ]
+        },
+        {
             "source": "neurosynth",
             "desc": "cogpc1",
             "space": "MNI152",
@@ -1387,8 +1487,48 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b924c1cb2a5e032d68dba5"
+                "4mw3a",
+                "6196caeb0b0c1e03bf7fdd23"
+            ]
+        },
+        {
+            "source": "normandin2015",
+            "desc": "omar",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-normandin2015_desc-omar_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "normandin2015/omar/MNI152",
+            "checksum": "df9b898b4f1c012410148e7196003c95",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "61956b3e1088a701d1bceac4"
+            ]
+        },
+        {
+            "source": "radnakrishnan2018",
+            "desc": "gsk215083",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-radnakrishnan2018_desc-gsk215083_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "radnakrishnan2018/gsk215083/MNI152",
+            "checksum": "dad6c6866c7d00fb4f5439a8545222a4",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619518dcbbe378017159e898"
             ]
         },
         {
@@ -1692,8 +1832,8 @@
             "res": "1mm",
             "format": "volume",
             "fname": "source-rosaneto_desc-abp688_space-MNI152_res-1mm_feature.nii.gz",
-            "rel_path": "rosaneto/abp688/MNI152/",
-            "checksum": "cbcc614dd6bcfdcb19cddab59379223e",
+            "rel_path": "rosaneto/abp688/MNI152",
+            "checksum": "c966cc351e36769f4ce945d07199ea08",
             "title": null,
             "tags": [
                 "receptors",
@@ -1701,8 +1841,48 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922243a6df1034ed4fe20"
+                "4mw3a",
+                "619519080b0c1e017b7fc438"
+            ]
+        },
+        {
+            "source": "sandiego2015",
+            "desc": "flb457",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-sandiego2015_desc-flb457_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "sandiego2015/flb457/MNI152",
+            "checksum": "80380e0663468ac16c887fc8f5c89064",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619518e50b0c1e017d7fbdad"
+            ]
+        },
+        {
+            "source": "sasaki2012",
+            "desc": "fepe2i",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-sasaki2012_desc-fepe2i_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "sasaki2012/fepe2i/MNI152",
+            "checksum": "c23a39856ffb1f45cd8ef1defd535166",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619519280b0c1e01757fcbb0"
             ]
         },
         {
@@ -1741,8 +1921,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b920d93a6df1034dd4e973"
+                "4mw3a",
+                "6196cabdbbe37803c059ec30"
             ]
         },
         {
@@ -1761,8 +1941,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b920c8cb2a5e032c68c012"
+                "4mw3a",
+                "6196cab1bbe37803bd59efbd"
             ]
         },
         {
@@ -1781,8 +1961,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b920d13a6df10348d51106"
+                "4mw3a",
+                "6196cac91088a703e9bce778"
             ]
         },
         {
@@ -1801,8 +1981,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b920bf9096b7035063ec44"
+                "4mw3a",
+                "6196cad4bbe37803bd59f027"
             ]
         },
         {
@@ -1821,8 +2001,28 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922199096b7035063f241"
+                "4mw3a",
+                "6196ca730b0c1e03d87fbaea"
+            ]
+        },
+        {
+            "source": "smith2017",
+            "desc": "flb457",
+            "space": "MNI152",
+            "res": "1mm",
+            "format": "volume",
+            "fname": "source-smith2017_desc-flb457_space-MNI152_res-1mm_feature.nii.gz",
+            "rel_path": "smith2017/flb457/MNI152",
+            "checksum": "94421a0e04d4385bcc9c4e830bedc988",
+            "title": null,
+            "tags": [
+                "receptors",
+                "PET"
+            ],
+            "redir": null,
+            "url": [
+                "4mw3a",
+                "619519161088a70155bcdc6e"
             ]
         },
         {
@@ -1861,8 +2061,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922113a6df10348d512eb"
+                "4mw3a",
+                "6196cb091088a703e8bce19f"
             ]
         },
         {
@@ -1881,8 +2081,8 @@
             ],
             "redir": null,
             "url": [
-                "grh4d",
-                "60b922099096b7034f63e03f"
+                "4mw3a",
+                "6196cadc1088a703e8bce0f4"
             ]
         }
     ]
