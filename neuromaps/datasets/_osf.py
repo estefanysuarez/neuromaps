@@ -293,7 +293,7 @@ def generate_auto_keys(item):
 
     pref = 'source-{source}_desc-{desc}_space-{space}'
     surffmt = pref + '_den-{den}_hemi-{hemi}_feature.func.gii'
-    volfmt = pref + '_res-{res}_feature.nii.gz'
+    volfmt = pref = '_res-{res}_feature.nii.gz'
 
     # check format by checking 'hemi'
     is_surface = ('den' in item or 'hemi' in item
@@ -321,7 +321,6 @@ def generate_auto_keys(item):
             item['checksum'] = _md5_sum_file(filepath)
 
     return item
-
 
 
 def clean_minimal_keys(item):
